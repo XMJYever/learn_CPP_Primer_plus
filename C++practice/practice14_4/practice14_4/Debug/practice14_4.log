@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/10/26 11:01:09。
+     1>项目“F:\科大三年新的开始\C++practice\practice14_4\practice14_4\practice14_4.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         D:\software\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt use_stui.cpp
+         use_stui.cpp
+     1>f:\科大三年新的开始\c++practice\practice14_4\practice14_4\use_stui.cpp(35): error C2243: “类型转换”: 从“Student *”到“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &”的转换存在，但无法访问
+     1>已完成生成项目“F:\科大三年新的开始\C++practice\practice14_4\practice14_4\practice14_4.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.39

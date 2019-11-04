@@ -1,0 +1,10 @@
+﻿生成启动时间为 2019/10/14 22:38:30。
+     1>项目“F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\1\1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\software\Microsoft Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\Debug\1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\Debug\1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\Debug\1.lib" /MACHINE:X86 Debug\main.obj
+         1.vcxproj -> F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\Debug\1.exe
+     1>已完成生成项目“F:\科大三年新的开始\C++practice\C++primer plus_homework\chapter 4\1\1\1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.59
