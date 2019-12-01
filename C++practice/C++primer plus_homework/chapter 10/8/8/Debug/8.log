@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall List<int>::add(int &)" (?add@?$List@H@@QAE_NAAH@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall List<int>::isfull(void)" (?isfull@?$List@H@@QAE_NXZ)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall List<int>::isempty(void)" (?isempty@?$List@H@@QAE_NXZ)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall List<int>::visit(void (__cdecl*)(int &))" (?visit@?$List@H@@QAEXP6AXAAH@Z@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl origin<int>(int &)" (??$origin@H@@YAXAAH@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl x2<int>(int &)" (??$x2@H@@YAXAAH@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl half<int>(int &)" (??$half@H@@YAXAAH@Z)，该符号在函数 _main 中被引用
+I:\documents for disk I\git\learn_CPP_Primer_plus\C++practice\C++primer plus_homework\chapter 10\8\Debug\8.exe : fatal error LNK1120: 7 个无法解析的外部命令
